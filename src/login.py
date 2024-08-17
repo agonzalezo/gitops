@@ -4,3 +4,7 @@
 
  suma = a + b
  print("la suma es el login", suma)
+
+ multi = a * b
+
+ print ("multiplicacion es ", multi)
